@@ -1,4 +1,6 @@
 # understanding-java-11-concurrency
+[![Build Status](https://travis-ci.org/ttwd80/understanding-java-11-concurrency.svg?branch=master)](https://travis-ci.org/ttwd80/understanding-java-11-concurrency)
+
 Understanding Java 11 Concurrency
 
 So, I decided to make a unit test case for every class under `java.util.concurrent`:
